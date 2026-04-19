@@ -16,39 +16,19 @@ Projects
 
 Project 1 — Financial Transaction Analysis
 Dataset: PaySim Financial Transactions (Kaggle)
-Skills: SELECT, WHERE, GROUP BY, HAVING, aggregate functions, subqueries
-What it answers:
-
-Total transaction volume by type
-Top 10 largest single transactions
-Transactions above the average amount
-Duplicate transaction detection
-Monthly transaction totals
+Skills: SELECT, WHERE, GROUP BY, HAVING, Aggregates, Subqueries
 
 📁 project-1-transaction-analysis.sql
 
 Project 2 — FX Market Performance Analysis
 Dataset: Foreign Exchange Rates 2000–2019 (Kaggle)
-Skills: Window functions, CTEs, date functions, GROUP BY, ORDER BY
-What it answers:
-
-Average GBP/USD rate by year
-Biggest single day movements by currency pair
-Currency pairs ranked by volatility
-Monthly average rates for major pairs
-Running average rate trends over time
+Skills: GROUP BY, ORDER BY, Subqueries, Aggregates
 
 📁 project-2-fx-analysis.sql
 
 Project 3 — Business Performance Analysis
 Dataset: PaySim Financial Transactions (Kaggle)
 Skills: Window functions, CTEs, CASE WHEN, month-on-month growth, anomaly detection
-What it answers:
-
-Revenue broken down by month
-Top 10 customers by total spend
-Month on month growth rate
-Accounts flagged for unusual activity (transaction 3x their average)
 
 📁 project-3-business-performance.sql
 
@@ -62,4 +42,10 @@ Excel — supporting data exploration and visualisation
 
 In Progress
 
+Completing all projects
+
 Expanding SQL skills into window functions and query optimisation
+
+Building power BI dashboards connected to SQL output
+
+
