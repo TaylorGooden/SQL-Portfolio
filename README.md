@@ -1,6 +1,6 @@
 # SQL Finance Portfolio — Taylor Gooden
  
-Finance professional with 3+ years of experience in financial operations, data analysis, and reporting — building SQL skills with a focus on fintech and financial markets.
+Finance professional with 3+ years of experience in financial operations. building SQL skills with a focus on fintech and financial markets.
  
 This repository contains SQL projects built using real financial datasets. Each project uses core SQL techniques: SELECT, WHERE, GROUP BY, HAVING, JOIN, and subqueries — applied to real-world finance and markets scenarios.
  
@@ -10,7 +10,7 @@ This repository contains SQL projects built using real financial datasets. Each 
  
 - 3+ years experience in finance operations — reconciliations, financial reporting, data validation
 - 4 years of active FX trading and market study — tracking performance by currency pair, risk/reward analysis, macroeconomic research
-- Strong Excel and Power BI skills — independently built multi-page financial performance dashboards
+- Excel and Power BI skills — independently built multi-page financial performance dashboards
 - Currently developing SQL skills applied to financial datasets
 - Based in Essex, London commutable
 - Contact: taylor.g.gooden@gmail.com
