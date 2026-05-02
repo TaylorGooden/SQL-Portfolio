@@ -1,4 +1,4 @@
--- Project 1: FX Rate Analysis 
+-- Project 2: FX Rate Analysis 
 
 -- Author: Taylor Gooden
 
